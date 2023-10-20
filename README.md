@@ -1,4 +1,4 @@
-# Field Mate
+# Field Mate - An AI-empowered mobile application for rice leaf disease detection
 
 **Demo Video**
 https://github.com/tunneee/field-mate/assets/95611334/18bb29a2-d2dd-4b42-9d02-17328394fd3c
